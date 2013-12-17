@@ -1,3 +1,9 @@
+libdist-checkconflicts-perl (0.09-2) lucid; urgency=low
+
+  * Add required version on libmodule-runtime-perl.
+
+ -- Nathaniel Nutter <nnutter@genome.wustl.edu>  Tue, 17 Dec 2013 15:35:59 -0600
+
 libdist-checkconflicts-perl (0.09-1) unstable; urgency=low
 
   * Initial Release.
